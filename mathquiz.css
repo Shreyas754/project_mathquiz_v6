@@ -1,0 +1,10 @@
+body {
+    background-color: brown;
+}
+.login_div1, .login_div2 {
+    float: none;
+    background-color: chocolate;
+    border-style: solid;
+    border-radius: 5px;
+    padding-bottom: 9px;
+}
